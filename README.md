@@ -6,9 +6,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=avisingh017&label=Profile%20views&color=0e75b6&style=flat" alt="avisingh017" /> </p>
 
+<h3> Profile <a href="https://AviSingh017.github.io"</a> </h3>
+
 - 💬 Ask me about **React, Node.js, MongoDB, JavaScript**
 
 - 📫 How to reach me **singh03.avishek@gmail.com**
+
+- 📫 How to reach me **https://AviSingh017.github.io**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

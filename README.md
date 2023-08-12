@@ -78,31 +78,35 @@
  
  
  ## 📊 My Github Stats
+ 
+ <p align="center">
+<a href="https://github.com/avisingh017">
+ </br>   
+  <img  align="center" width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=avisingh017&theme=gotham&hide_border=false"/>
+  <p align="center" margin-left="5"> <a href="https://github.com/ryo-ma/github-profile-trophy" align="center"><img src="https://github-profile-trophy.vercel.app/?username=avisingh017&theme=dark_dimmed&no-frame=false&no-bg=true&margin-w=4" alt="avisingh017"
+   width ="100%"    align="center"
+         height="200px" 
+/></a> </p>
+<div display="grid" grid-template-column="repeat(2,1fr)" width="95" magin="auto">
+  <div>
+<p align="center"><img align="left"  src="https://github-readme-stats-sigma-five.vercel.app/api?username=avisingh017&theme=gotham&hide_border=false&include_all_commits=false&count_private=true" alt="aman" width="46%" height="200px"/></p></div>
+<div>
+<p align="center"><img align="right" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=avisingh017&theme=gotham&hide_border=false&include_all_commits=false&count_private=true&layout=compact" alt="avisingh017" height="200px"  width="48%"/></p></div>
 
-<p align="center">
-<!--     <a href="https://github.com/avisingh017/github-readme-streak-stats"> -->
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Avishek's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=avisingh017&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+<p width="50%" align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=avisingh017&theme=gotham&hide_border=true" alt="avisingh017" align="center" /></a>
 </p>
+ 
+ <p align="center">
+ <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=avisingh017&theme=monokai"  align="center"
+        width="100%" heigth="250px"
+      /></p>
 
 
   <br/>
-  
-<p align="center">
-<!--     <a href="https://github.com/avisingh017/github-readme-stats"> -->
-     <img alt="Avishek's Github Stats" src="https://github-readme-stats.vercel.app/api?username=avisingh017&show_icons=false&count_private=true&theme=react&hide_border=true&bg_color=0D1117" />
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=avisingh017&show_icons=true&theme=react&hide_border=true&bg_color=0D1117"
  
 
- <p><img  src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=avisingh017&show_icons=true&theme=react&hide_border=true&bg_color=0D1117" alt="Avishek" /></p>
- </p> 
- <br/>
-
-
-<br/>
-<br/>
-
-<div>
-
- 
- 
-</div>
+ <p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.demolab.com/?lines=aaaaaThank You for giving your valuable time 😄; To view my GitHub Profile 👩‍🚀 🚀&font=Fira%20Code&center=true&width=440&height=45&color=#0B46B4FC&vCenter=true&size=22&pause=1000"></a>
+</p> 

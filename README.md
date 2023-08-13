@@ -3,8 +3,8 @@
 <div align="center">
  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Web+Developer;Back+End+Developer;Web+Developer;Quick+learner&color=cyan&center=true" />
 </div>
-<h2>- Dedicated Full Stack Developer with a proficiency in JavaScript and Node.js.</h2>
-<h2>- Expertise in developing and implementing scalable and secure web applications. Deep understanding and skills to build high-performance web applications that are optimized for speed and functionality </h2>
+<h2>- Dedicated Full Stack Developer with proficiency in Node.js, React.js, Express, MongoDB and Javascript.</h2>
+<h2>- Proficient in crafting scalable and secure web applications. Deep expertise in building high-performance MERN stack solutions, finely tuned for speed, scalable and robust functionality.</h2>
 <img align="right" alt "Coding" width="400" src="https://i.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.webp">
 
 
